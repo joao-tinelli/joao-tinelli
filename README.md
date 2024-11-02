@@ -3,20 +3,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=joao-tinelli&color=blue)
 
 ## About Me
-- 👀 I’m passionate about **computer science**, **mathematics**, **geopolitics**, **economics**, **movies**, and **sports**.
+- 👀 I’m passionate about **computer science**, **mathematics**, **economics**, **movies**, and **soccer**.
 - 🌱 I’m currently studying Computer Science at the [Federal University of Technology – Parana](http://www.utfpr.edu.br/).
 - 💼 I'm eager to collaborate on **open-source projects**, **research in computer science**, and **innovative tech solutions**.
 - 📫 You can reach me at [joao_tinelli@outlook.com](mailto:joao_tinelli@outlook.com).
-
-## My Interests
-- **Programming Languages:** C, C++, Python
-- **Web Development:** 
-- **Data Science:** 
-- **Other Technologies:** 
-
-## Projects and Contributions
-- 🔧 **
-- 🔧 **
 
 ## Fun Fact
 ⚡ I started coding to participate in the [Brazilian Olympiad in Informatics (OBI)](http://olimpiada.ic.unicamp.br/) when I was 16.
